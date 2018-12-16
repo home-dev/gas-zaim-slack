@@ -1,0 +1,11 @@
+{
+  "name": "gas-slack-zaim",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/home-dev/gas-zaim-slack.git",
+  "author": "安達 健二 <kenji.183927@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.2.0"
+  }
+}
